@@ -1,7 +1,6 @@
 # YoctoMacro Keyboard
 
-This is a demo app showing how program a macro keyboard with an [Yocto-MaxiKnob](https://www.yoctopuce.com/FR/products/capteurs-electriques-usb/yocto-maxiknob).
-
+This is a demo app showing how to program a macro keyboard with an [Yocto-MaxiKnob](https://www.yoctopuce.com/FR/products/capteurs-electriques-usb/yocto-maxiknob).
 
 For more information, see [Yoctopuce blog](https://www.yoctopuce.com/FR/article/un-clavier-macro-facon-yoctopuce).
 
